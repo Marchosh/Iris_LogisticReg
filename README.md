@@ -1,1 +1,3 @@
-# Iris_LogisticReg
+# Iris Dataset predicition with
+## Logistic Regression
+## Random FOrest
